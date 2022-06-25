@@ -4,7 +4,7 @@
 ## Documentação
 
 
-Clone projeto: git clone https://github.com/eduardomoraespy/bot_reddit.git
+Clone projeto: git clone https://github.com/eduardomoraespy/Django_rest_framework.git
 
 Criar ambiente virtual: virtualenv env ativar ambiente: env\Scripts\activate
 
